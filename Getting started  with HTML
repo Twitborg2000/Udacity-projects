@@ -1,0 +1,20 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>CodePen - A Pen by  Mads Nyborg</title>
+
+</head>
+
+<body>
+
+  <b>HTML is the preffered language of the internet.</b><p> This does not men that you cannot find other formats, but the bulk of webpages are in HTML-format. The basic components of the internet, as covered in this classs, are the following: <P> <b>Browser:</b> Program that runs on your computer. 
+<P> <b>Internet:</b> A network of networks (hence the "inter"...)  <P> <b>Servers:</b> Computers optimized for storing files<p> <b>HTTP:</b> The main protocol of the internet or the web<P> It does not seem that hard to master yet. But I have a feeling the team behind Introduction to <a href="https://www.udacity.com/course/nd000"> Introduction to Programming Nanodegree</a> <br> have more challenging stuff in store for me!
+
+</body>
+
+</html>
